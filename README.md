@@ -6,7 +6,7 @@
 # About
 This is a mock e-commerce site where users can "purchase" artwork.
 
-#Features 
+# Features 
 - Images can be favorited and added to the cart.
 - The cart automatically calculates the total cost of selected images.
 - When images are removed from the cart, the price is instantly recalculated.
